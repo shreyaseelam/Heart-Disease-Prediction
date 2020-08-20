@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+run:
+	python ML$_Ann_optimization.py
+	python ML$_Ann_prediction.py
+	python ML$_Regression.py
+	
+	
+	
